@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, Sai Likhith Welcomes you 👋
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="350" height="300">
+
 
 
 Summary:
@@ -10,6 +11,9 @@ Summary:
 - 💬 Ask me about ... My Experience and My Achievements 
 - 📫 How to reach me: ... LinkedIn- @sailikhithk
 - ⚡ Fun fact: ... I play chess to improve my analytical and programming skills
+
+Don't forget to check out my contributions below
+<img src="https://cdn.emojidex.com/emoji/seal/arrow_down.png?1417137966" width="100" height"200">
 
 <!--
 **sailikhithk/sailikhithk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
