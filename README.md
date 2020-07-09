@@ -1,4 +1,4 @@
-### Hi there, Sai Likhith Welcomes you 👋
+### Hi there 👋
 
 Summary:
 - 🔭 I’m currently working on ... Covid 19 Hospital locator 
