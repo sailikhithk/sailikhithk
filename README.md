@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... Opensource projects
 - 🤔 I’m looking for opportunities with ... Fall 2020 and Spring 2021 Internships
 - 💬 Ask me about ... My Experience and My Achievements 
-- 📫 How to reach me: ... LinkedIn- @sailikhithk
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/sailikhithk) [Mail](mailto:sailikhithcse@gmail.com)
 - ⚡ Fun fact: ... I play chess to improve my analytical and programming skills
 
 ### Don't forget to check out my contributions below
