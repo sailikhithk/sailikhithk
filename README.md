@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hi.gif](https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif = 24x48)
+![Hi.gif](https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif =24x48)
 
 
 Summary:
