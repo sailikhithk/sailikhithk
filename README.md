@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="300" height="300">
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="350" height="300">
 
 
 Summary:
