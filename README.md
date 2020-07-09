@@ -13,7 +13,7 @@ Summary:
 - ⚡ Fun fact: ... I play chess to improve my analytical and programming skills
 
 ##### Don't forget to check out my contributions below
-<img src="https://cdn.emojidex.com/emoji/seal/arrow_down.png?1417137966" width="200" height="200">
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="200" height="200">
 
 <!--
 **sailikhithk/sailikhithk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
