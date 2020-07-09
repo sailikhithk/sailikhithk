@@ -1,7 +1,6 @@
 ### Hi there, Sai Likhith Welcomes you 👋
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
 
-Summary:
 - 🔭 I’m currently working on ... Covid 19 Hospital locator 
 - 🌱 I’m currently learning ... Machine Learning Using AWS, Azure
 - 👯 I’m looking to collaborate on ... Opensource projects
