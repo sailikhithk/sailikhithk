@@ -12,7 +12,7 @@ Summary:
 - 📫 How to reach me: ... LinkedIn- @sailikhithk
 - ⚡ Fun fact: ... I play chess to improve my analytical and programming skills
 
-###### Don't forget to check out my contributions below
+##### Don't forget to check out my contributions below
 <img src="https://cdn.emojidex.com/emoji/seal/arrow_down.png?1417137966" width="200" height="200">
 
 <!--
