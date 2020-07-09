@@ -1,5 +1,5 @@
 ### Hi there, Sai Likhith Welcomes you 👋
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="350" height="300">
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
 
 
 
@@ -13,7 +13,7 @@ Summary:
 - ⚡ Fun fact: ... I play chess to improve my analytical and programming skills
 
 ##### Don't forget to check out my contributions below
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="200" height="200">
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="50" height="100">
 
 <!--
 **sailikhithk/sailikhithk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
