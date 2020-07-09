@@ -1,8 +1,6 @@
 ### Hi there, Sai Likhith Welcomes you 👋
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
 
-
-
 Summary:
 - 🔭 I’m currently working on ... Covid 19 Hospital locator 
 - 🌱 I’m currently learning ... Machine Learning Using AWS, Azure
@@ -12,7 +10,7 @@ Summary:
 - 📫 How to reach me: ... LinkedIn- @sailikhithk
 - ⚡ Fun fact: ... I play chess to improve my analytical and programming skills
 
-##### Don't forget to check out my contributions below
+### Don't forget to check out my contributions below
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="60" height="100">
 
 <!--
