@@ -1,3 +1,9 @@
+# Sai Likhith Kanuparthi
+[![Linkedin Badge](https://img.shields.io/badge/-sailikhithk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sailikhithk/)](https://www.linkedin.com/in/sailikhithk/) 
+[![Twitter Badge](http://img.shields.io/badge/-@codewithsai?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/codewithsai)](https://twitter.com/codewithsai) 
+[![GitHub followers](https://img.shields.io/github/followers/sailikhithk?label=Follow&style=social)](https://github.com/sailikhithk/?tab=follow) 
+[![Gmail Badge](https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red&link=mailto:sailikhithcse@gmail.com)](mailto:sailikhithcse@gmail.com) 
+
 ### Hi there, Sai Likhith Welcomes you 👋 
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
 
