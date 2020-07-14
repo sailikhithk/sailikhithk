@@ -16,7 +16,6 @@
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/sailikhithk); [Mail](mailto:sailikhithcse@gmail.com)**
 - ⚡ Fun fact: ... **I play chess to improve my analytical and programming skills**
 
-### My GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&title_color=000&icon_color=79ff97&text_color=9f9f9f">
 
 ### Don't forget to check out my contributions below
