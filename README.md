@@ -16,8 +16,12 @@
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/sailikhithk); [Mail](mailto:sailikhithcse@gmail.com)**
 - ⚡ Fun fact: ... **I play chess to improve my analytical and programming skills**
 
+### My GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
 ### Don't forget to check out my contributions below
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="60" height="100">
+
 
 <!--
 **sailikhithk/sailikhithk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
