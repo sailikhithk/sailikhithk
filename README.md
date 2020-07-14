@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red&link=mailto:sailikhithcse@gmail.com)](mailto:sailikhithcse@gmail.com) 
 ![](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
-### Hi there, Sai Likhith Welcomes you 👋 
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
+### Let me introduce myself 👋 
 
 ### I love solving problems and building products
 - 🔭 I’m currently working on ... **Covid 19 Hospital locator**
