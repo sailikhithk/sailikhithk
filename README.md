@@ -7,7 +7,7 @@
 
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
 
-## My Linkedin is my digital Portfolio and My GitHub is my digital Resume 
+## My Linkedin is my detailed Portfolio and My GitHub is my detailed Resume 
 
 ### I love solving problems and building versatile products 👋 
 
