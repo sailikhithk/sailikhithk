@@ -10,7 +10,7 @@
 
 
 
-## My <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="50" height="50"> is my detailed Portfolio and My <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" height="50"> is my detailed Resume 
+## My <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="50" height="50"> is my detailed Portfolio and My <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" width="60" height="50"> is my detailed Resume 
 
 ### I love solving problems and building versatile products 👋 
 
