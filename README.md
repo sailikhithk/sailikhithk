@@ -10,7 +10,7 @@
 
 
 
-## My <a href="https://www.linkedin.com/in/sailikhith"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="30" ></a> is my detailed Portfolio and My <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" width="40" height="40"> is my detailed Resume 
+## My <a href="https://www.linkedin.com/in/sailikhith"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="30" ></a> is my detailed Portfolio and My <a href='https://www.github.com/sailikhithk"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" width="40" height="40"></a> is my detailed Resume 
 
 ### I love solving problems and building versatile products 👋 
 
