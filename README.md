@@ -4,8 +4,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/sailikhithk?label=Follow&style=social)](https://github.com/sailikhithk/?tab=follow) 
 [![Gmail Badge](https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red&link=mailto:sailikhithcse@gmail.com)](mailto:sailikhithcse@gmail.com) 
 ![](https://visitor-badge.glitch.me/badge?page_id=sailikhithk.visitor-badge)
+![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fsailikhithk.github.io)
+
 
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/Hi.gif" width="250" height="200">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fsailikhithk" alt="Hits">
 
 
 
