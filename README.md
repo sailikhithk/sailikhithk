@@ -14,7 +14,7 @@
 ### I love solving problems and building versatile products 👋 
 
 
-- 🔭 I’m currently working on ... **Covid 19 Hospital locator**
+- 🔭 I’m currently working on ... **Amazon Clone by Sai**
 - 🌱 I’m currently learning ... **Machine Learning Using AWS, Azure**
 - 👯 I’m looking to collaborate on ... **Opensource projects**
 - 🤔 I’m looking for opportunities with ... **New Grad 2021 roles and Spring 2021 Internships**
