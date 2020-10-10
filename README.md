@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on ... **Covid 19 Hospital locator**
 - 🌱 I’m currently learning ... **Machine Learning Using AWS, Azure**
 - 👯 I’m looking to collaborate on ... **Opensource projects**
-- 🤔 I’m looking for opportunities with ... **Fall 2020 and Spring 2021 Internships**
+- 🤔 I’m looking for opportunities with ... **New Grad 2021 roles and Spring 2021 Internships**
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/sailikhithk); [Mail](mailto:sailikhithcse@gmail.com)**
 - ⚡ Fun fact: ... **I play chess to improve my analytical and programming skills**
 
