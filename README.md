@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on ... **Amazon Clone by Sai**
-- 🌱 I’m currently learning ... **Machine Learning Using AWS, Azure**
+- 🌱 I’m currently learning ... **Kubernetes Using AWS**
 - 👯 I’m looking to collaborate on ... **Opensource projects**
 - 🤔 I’m looking for opportunities with ... **New Grad 2021 roles and Spring 2021 Internships**
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/sailikhithk); [Mail](mailto:sailikhithcse@gmail.com)**
