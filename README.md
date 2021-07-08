@@ -30,9 +30,10 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&theme=dark" width="48%" >
   <img  src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 </div>
+<!--
 <a href="https://sailikhithk.com/"><img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&title_color=000FFF&icon_color=79ff67&text_color=9f9f9f"><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailikhithk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
-
-<div align="left">
+-->
+<div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sailikhithk&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
