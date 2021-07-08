@@ -21,10 +21,6 @@
 - ⚡ Fun fact: ... **I play chess to improve my analytical and programming skills**
 
 
-
-### Don't forget to check out my contributions below
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="60" height="100">
-
 ## 🏆 *Github Status*
 <div>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&theme=dark" width="48%" >
@@ -40,6 +36,9 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=onimur.onimur)  -->
 </div>
 
+
+### Don't forget to check out my contributions below
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/images%20(1).png" width="60" height="100">
 
 
 <!--
