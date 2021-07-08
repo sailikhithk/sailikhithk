@@ -36,7 +36,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=sailikhithk&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
-<br>
+
 
 ### Don't forget to check out my contributions below
 <img src="https://github.com/sailikhithk/sailikhithk/blob/master/unnamed2.gif" width="60" height="100">
