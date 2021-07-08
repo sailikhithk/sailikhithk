@@ -38,7 +38,7 @@
 </div>
 
 
-### Don't forget to check out my contributions below
+### *Don't forget to check out my contributions below*
 <div>
   <img src="https://github.com/sailikhithk/sailikhithk/blob/master/unnamed2.gif" width="60" height="100">
 </div>
