@@ -6,7 +6,7 @@
 ![](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fsailikhithk.github.io)
 ![](https://visitor-badge.glitch.me/badge?page_id=sailikhithk.visitor-badge)
 
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/gif.gif" width="250" height="150">
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/welcome-1.gif" width="250" height="150">
 
 ## My <a href="https://www.linkedin.com/in/sailikhithk"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="30" ></a> is my detailed Portfolio and My <a href="https://www.github.com/sailikhithk"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" width="40" height="40"></a> is my detailed Resume 
 
