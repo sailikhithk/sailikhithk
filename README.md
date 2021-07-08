@@ -14,9 +14,9 @@
 
 
 - 🔭 I’m currently working on ... **Amazon Clone by Sai**
-- 🌱 I’m currently learning ... **Kubernetes Using AWS**
+- 🌱 I’m currently learning ... **NLP Multi-label text classification**
 - 👯 I’m looking to collaborate on ... **Opensource projects**
-- 🤔 I’m looking for opportunities with ... **New Grad 2021 roles and Spring 2021 Internships**
+- 🤔 I’m looking for opportunities with ... **Software Developement Engineer and Data Science roles**
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/sailikhithk); [Mail](mailto:sailikhithcse@gmail.com)**
 - ⚡ Fun fact: ... **I play chess to improve my analytical and programming skills**
 
