@@ -32,8 +32,6 @@
 <br>
 <br>
 <div align="right">
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&rank=S,AAA,AA,A&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sailikhithk&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
