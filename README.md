@@ -32,7 +32,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&theme=dark" width="48%" >
 <br>
 
-<div align="center">
+<div align="left">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sailikhithk&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
