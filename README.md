@@ -23,7 +23,7 @@
 
 ## 🏆 *Github Status*
 <div>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&theme=transparent" width="48%" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&no-bg=true" width="48%" >
   <img  src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&hide_border=true&theme=transparent" width="48%" align="right" >
 </div>
 <!--
