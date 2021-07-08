@@ -33,11 +33,8 @@
 <br>
 
 
-<div align="center">
-  
+<div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sailikhithk&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sailikhithk)
 </div>
 
 
