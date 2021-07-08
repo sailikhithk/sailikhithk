@@ -38,7 +38,7 @@
 
 
 ### Don't forget to check out my contributions below
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/692de06a73666b614d3319f206f51d9b.gif" width="60" height="100">
+<img src="https://github.com/sailikhithk/sailikhithk/blob/master/unnamed.gif" width="60" height="100">
 
 
 <!--
