@@ -20,12 +20,22 @@
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/sailikhithk); [Mail](mailto:sailikhithcse@gmail.com)**
 - ⚡ Fun fact: ... **I play chess to improve my analytical and programming skills**
 
+## 🧰 Toolbox
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>       <img src="https://badges.aleen42.com/src/python.svg" alt="Python Logo" width="100" height="50"/>    
+
+---
 
 ## 🏆 *Github Status*
 <div>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&no-bg=true&margin-w=15&margin-h=15" width="48%" height="20%">
   <img  src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&no-bg=true&margin-h=15&margin-w=15&hide_border=true" width="48%" height="20%" align="right" >
 </div>
+
+<div>
+  ![Top Langs](https://camo.githubusercontent.com/af307bcaa8e23cc44add852f732bf5de62d7588114133bacc419c54e7d792dcd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e65726f303032266c61796f75743d636f6d70616374267468656d653d7261646963616c)
+
+  </div>
 <!--
 <a href="https://sailikhithk.com/"><img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&title_color=000FFF&icon_color=79ff67&text_color=9f9f9f"><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailikhithk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 -->
