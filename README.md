@@ -27,6 +27,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>
 <img src="https://badges.aleen42.com/src/python.svg" alt="Python Logo" width="100" height="50"/>    
 
+
 ---
 
 ## 🏆 *Github Status*
