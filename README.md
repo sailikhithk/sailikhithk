@@ -38,8 +38,8 @@
 
 ## 🏆 *Github Status*
 <div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&" alt="sailikhithk" /></p>
-  <p><img  src="https://github-readme-stats.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&no-bg=true&margin-h=15&margin-w=15&hide_border=true" width="48%" height="20%" align="right" ></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&" alt="sailikhithk" width="48%" height="10%" align="right" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&no-bg=true&margin-h=15&margin-w=15&hide_border=true" width="48%" height="10%" align="right" ></p>
 </div>
 
 <div>
