@@ -23,7 +23,7 @@
 ## 🧠 About Me
 
 - 🔭 **Role**: Sr. Software Engineer at **Airbnb**, specializing in **ML Infrastructure** and **AI Data Preparation**.
-- 🤖 **AI Research**: Published in Cambridge Scholars Publishing (Book Chapter, 2025) · [SPE ATCE Conference Paper (2022)](https://www.onepetro.org/) · [ResearchGate Research Article (2025)](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions)
+- 🤖 **AI Research**: Published across **Cambridge Scholars Publishing** (2 books, 2025) · [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11004721) · [**SPE ATCE**](https://www.onepetro.org/) (2022) · [**ResearchGate**](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) — AI safety, SSMs & ML infrastructure
 - 🧠 **Interests**: Passionate about **Generative AI**, Large Language Model Orchestration (LLMs), and Multi-Agent systems.
 - 🛠️ **Current Projects**: 
   - Architecting **LLM-powered analytics tools** (30+ models: GPT-4o, Claude, Gemini, Llama) used daily by 55+ analysts at Airbnb.
@@ -37,9 +37,17 @@
 
 ### 📚 Book Chapters
 
-| Year | Title | Book | Publisher | Link |
-|------|-------|------|-----------|------|
-| 2025 | The Evolution and Rise of State Space Models in AI | *A Case-Based Study of State Space Models in Health Care: The New Transformers* | Cambridge Scholars Publishing | [ResearchGate →](https://www.researchgate.net/publication/398300276_The_Evolution_and_Rise_of_State_Space_Models_in_AI) |
+| Year | Title | Book | Publisher | Links |
+|------|-------|------|-----------|-------|
+| 2025 | The Evolution and Rise of State Space Models in AI | *A Case-Based Study of State Space Models in Health Care: The New Transformers* (Ch. 1) | Cambridge Scholars Publishing | [ResearchGate →](https://www.researchgate.net/publication/398300276_The_Evolution_and_Rise_of_State_Space_Models_in_AI) |
+| 2025 | Future Trends in AI for Cyberbullying Preventions | *Harnessing Generative AI to Combat Cyberbullying in Industry: Strategies, Solutions, and Ethics* (p. 200) | Cambridge Scholars Publishing | [Google Books →](https://books.google.com/books?hl=en&lr=&id=Tv-PEQAAQBAJ&oi=fnd&pg=PA200&dq=Sai+Likhith+Kanuparthi) · [ResearchGate →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) |
+| 2025 | Contributing Author | *Harnessing Generative AI to Combat Cyberbullying in Industry: Strategies, Solutions, and Ethics* | Cambridge Scholars Publishing | [Google Books →](https://books.google.com/books?hl=en&lr=&id=Tv-PEQAAQBAJ&oi=fnd&pg=PR5&dq=Sai+Likhith+Kanuparthi) |
+
+### 🔬 IEEE Publications
+
+| Year | Title | Venue | Link |
+|------|-------|-------|------|
+| 2025 | Role of Artificial Intelligence to address Cyberbullying and Future Scope | IEEE Xplore | [IEEE →](https://ieeexplore.ieee.org/abstract/document/11004721) |
 
 ### 🎤 Conference Papers
 
@@ -49,8 +57,8 @@
 
 ### 📝 Research Articles
 
-| Year | Title | Publisher | Link |
-|------|-------|-----------|------|
+| Year | Title | Publisher | Links |
+|------|-------|-----------|-------|
 | 2025 | Future Trends in AI for Cyberbullying Preventions | ResearchGate / Stemaway Research | [ResearchGate →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) · [PDF →](https://stemaway-discourse.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b69e629aaf20d516434187dae0aaac429f18f031.pdf) |
 
 ## 🏆 Certifications
