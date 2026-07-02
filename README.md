@@ -23,13 +23,22 @@
 ## 🧠 About Me
 
 - 🔭 **Role**: Sr. Software Engineer at **Airbnb**, specializing in **ML Infrastructure** and **AI Data Preparation**.
+- 🤖 **AI Research**: Published researcher — [AI for Cyberbullying Prevention (ResearchGate, 2025)](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) · [ML for Subsurface (SPE ATCE, 2022)](https://www.onepetro.org/)
 - 🧠 **Interests**: Passionate about **Generative AI**, Large Language Model Orchestration (LLMs), and Multi-Agent systems.
 - 🛠️ **Current Projects**: 
-  - Building an **AI-based Flashcard Generator** using advanced LLM reasoning.
+  - Architecting **LLM-powered analytics tools** (30+ models: GPT-4o, Claude, Gemini, Llama) used daily by 55+ analysts at Airbnb.
   - Designing agentic automation layers and custom MCP servers.
-  - Contributing to agricultural tech projects like **KrishiMitra**.
-- 👨‍💻 **Portfolio**: Discover all my work and projects at [sailikhith.me](https://sailikhith.me/) and read my articles at [sailikhithk.com](https://sailikhithk.com/).
+  - Contributing to open AI safety research.
+- 👨‍💻 **Portfolio**: [sailikhith.me](https://sailikhith.me/) · Articles: [sailikhithk.com](https://sailikhithk.com/) · AI-readable: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
+- 💼 **Open to**: AI consulting, advisory, and conference speaking.
 - ⚡ **Fun Fact**: I think of AI not merely as a machine or tool, but as the next generation species on our planet overcoming biological limitations.
+
+## 📄 Research Publications
+
+| Year | Title | Venue | Link |
+|------|-------|-------|------|
+| 2025 | Future Trends in AI for Cyberbullying Preventions | ResearchGate / Stemaway | [Read →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) |
+| 2022 | Machine Learning for Subsurface Applications | SPE ATCE, Houston (Paper: 22ATCE-P-663-SPE) | [OnePetro →](https://www.onepetro.org/) |
 
 ## 🏆 Certifications
 
