@@ -6,10 +6,10 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sailikhithk/"><img src="https://img.shields.io/badge/-sailikhithk-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a> 
+  <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sailikhithk/"><img src="https://img.shields.io/badge/-sailikhithk-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a> 
   <a href="https://twitter.com/codewithsai"><img src="https://img.shields.io/badge/-@codewithsai-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a> 
-  <a href="https://github.com/sailikhithk/?tab=follow"><img src="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white" alt="GitHub Followers" /></a> 
+  <a href="https://github.com/sailikhithk/?tab=follow"><img src="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white&color=24292e" alt="GitHub Followers" /></a> 
   <a href="mailto:sailikhithcse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
