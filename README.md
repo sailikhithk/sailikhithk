@@ -1,18 +1,25 @@
-# Hi there, I'm Sai Likhith Kanuparthi! 👋
-
-<img src="welcome-1.gif" width="250" height="150" align="right">
-
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=600&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems" alt="Typing SVG" /></a>
-</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-sailikhithk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailikhithk/)](https://www.linkedin.com/in/sailikhithk/) 
-[![Twitter Badge](https://img.shields.io/badge/-@codewithsai-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/codewithsai)](https://twitter.com/codewithsai) 
-[![GitHub followers](https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white)](https://github.com/sailikhithk/?tab=follow) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sailikhithcse@gmail.com)](mailto:sailikhithcse@gmail.com)
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=0e75b6&style=flat" alt="sailikhithk" /> 
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h1>Hi there, I'm Sai Likhith Kanuparthi! 👋</h1>
+      <p align="left">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems" alt="Typing SVG" /></a>
+      </p>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/sailikhithk/"><img src="https://img.shields.io/badge/-sailikhithk-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a> 
+        <a href="https://twitter.com/codewithsai"><img src="https://img.shields.io/badge/-@codewithsai-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a> 
+        <a href="https://github.com/sailikhithk/?tab=follow"><img src="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white" alt="GitHub Followers" /></a> 
+        <a href="mailto:sailikhithcse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+      </p>
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </p>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <img src="welcome-1.gif" width="220" height="132" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🧠 About Me
