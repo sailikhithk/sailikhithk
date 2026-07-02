@@ -23,7 +23,7 @@
 ## 🧠 About Me
 
 - 🔭 **Role**: Sr. Software Engineer at **Airbnb**, specializing in **ML Infrastructure** and **AI Data Preparation**.
-- 🤖 **AI Research**: Published researcher — [AI for Cyberbullying Prevention (ResearchGate, 2025)](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) · [ML for Subsurface (SPE ATCE, 2022)](https://www.onepetro.org/)
+- 🤖 **AI Research**: Published in Cambridge Scholars Publishing (Book Chapter, 2025) · [SPE ATCE Conference Paper (2022)](https://www.onepetro.org/) · [ResearchGate Research Article (2025)](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions)
 - 🧠 **Interests**: Passionate about **Generative AI**, Large Language Model Orchestration (LLMs), and Multi-Agent systems.
 - 🛠️ **Current Projects**: 
   - Architecting **LLM-powered analytics tools** (30+ models: GPT-4o, Claude, Gemini, Llama) used daily by 55+ analysts at Airbnb.
@@ -33,12 +33,25 @@
 - 💼 **Open to**: AI consulting, advisory, and conference speaking.
 - ⚡ **Fun Fact**: I think of AI not merely as a machine or tool, but as the next generation species on our planet overcoming biological limitations.
 
-## 📄 Research Publications
+## 📄 Research & Publications
+
+### 📚 Book Chapters
+
+| Year | Title | Book | Publisher | Link |
+|------|-------|------|-----------|------|
+| 2025 | The Evolution and Rise of State Space Models in AI | *A Case-Based Study of State Space Models in Health Care: The New Transformers* | Cambridge Scholars Publishing | [ResearchGate →](https://www.researchgate.net/publication/398300276_The_Evolution_and_Rise_of_State_Space_Models_in_AI) |
+
+### 🎤 Conference Papers
 
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
-| 2025 | Future Trends in AI for Cyberbullying Preventions | ResearchGate / Stemaway | [Read →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) |
-| 2022 | Machine Learning for Subsurface Applications | SPE ATCE, Houston (Paper: 22ATCE-P-663-SPE) | [OnePetro →](https://www.onepetro.org/) |
+| 2022 | Machine Learning for Subsurface Applications | SPE Annual Technical Conference & Exhibition (ATCE), Houston · Paper: 22ATCE-P-663-SPE | [OnePetro →](https://www.onepetro.org/) |
+
+### 📝 Research Articles
+
+| Year | Title | Publisher | Link |
+|------|-------|-----------|------|
+| 2025 | Future Trends in AI for Cyberbullying Preventions | ResearchGate / Stemaway Research | [ResearchGate →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) · [PDF →](https://stemaway-discourse.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b69e629aaf20d516434187dae0aaac429f18f031.pdf) |
 
 ## 🏆 Certifications
 
