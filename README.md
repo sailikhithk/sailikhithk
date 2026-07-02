@@ -22,7 +22,7 @@
   - Building an **AI-based Flashcard Generator** using advanced LLM reasoning.
   - Designing agentic automation layers and custom MCP servers.
   - Contributing to agricultural tech projects like **KrishiMitra**.
-- 👨‍💻 **Portfolio**: Discover all my work and projects at [sailikhith.com](https://sailikhith.com/) and read my articles at [sailikhithk.com](https://sailikhithk.com/).
+- 👨‍💻 **Portfolio**: Discover all my work and projects at [sailikhith.me](https://sailikhith.me/) and read my articles at [sailikhithk.com](https://sailikhithk.com/).
 - ⚡ **Fun Fact**: I think of AI not merely as a machine or tool, but as the next generation species on our planet overcoming biological limitations.
 
 ---
