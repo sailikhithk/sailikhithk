@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Likhith Kanuparthi! 👋
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sailikhithk/sailikhithk/master/welcome-1.gif" width="220" height="132" align="right" />
+  <img src="welcome-1.gif" width="220" height="132" align="right" />
   <a href="https://git.io/typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems">
@@ -14,20 +14,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sailikhithk/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a> 
-  <a href="https://twitter.com/codewithsai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-X-f3f4f6?style=flat&logo=x&logoColor=000000">
-      <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" />
-    </picture>
-  </a> 
-  <a href="https://github.com/sailikhithk/?tab=follow">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white&color=24292e">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=000000&color=f3f4f6">
-      <img src="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white&color=24292e" alt="GitHub Followers" />
-    </picture>
-  </a> 
+  <a href="https://twitter.com/codewithsai"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a> 
+  <a href="https://github.com/sailikhithk/?tab=follow"><img src="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white&color=24292e" alt="GitHub Followers" /></a> 
   <a href="mailto:sailikhithcse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
