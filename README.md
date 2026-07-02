@@ -28,10 +28,10 @@
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20%E2%80%93%20Professional-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect – Professional" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20%E2%80%93%20Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer – Associate" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20%E2%80%93%20Specialty-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate%20(DP--100)-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Data Scientist Associate (DP-100)" />
+  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110" height="110" alt="AWS Certified Solutions Architect – Professional" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" height="110" alt="AWS Certified Developer – Associate" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="110" height="110" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/d287311c-2236-4d1a-8c54-6e118991206f/image.png" width="110" height="110" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" />
 </p>
 
 ## 🧰 Tech Stack & Skills
