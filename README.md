@@ -2,7 +2,13 @@
 
 <p align="left">
   <img src="welcome-1.gif" width="220" height="132" align="right" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems" alt="Typing SVG" />
+    </picture>
+  </a>
 </p>
 
 <p align="left">
