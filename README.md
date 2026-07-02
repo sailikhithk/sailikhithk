@@ -114,13 +114,15 @@
 
 ---
 
-### ✍️ Recent Blogs & Writing
-Discover my posts on [sailikhithk.com](https://sailikhithk.com/) or connect below:
+### 🌐 Find Me Online
+
+**Portfolio**: [sailikhith.me](https://sailikhith.me) · **Blog**: [sailikhithk.com](https://sailikhithk.com) · **AI-readable profile**: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
 
 <p align="left">
-<a href="https://dev.to/sailikhithk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sailikhithk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sailikhithk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sailikhithk" height="30" width="40" /></a>
-<a href="https://medium.com/@sailikhith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sailikhith" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sailikhithcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sailikhithcse" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sailikhith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sailikhith" height="30" width="40" /></a>
+<a href="https://sailikhith.me" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-sailikhith.me-18BC9C?style=flat&logo=vercel&logoColor=white" alt="Sai Likhith Kanuparthi Portfolio" /></a>&nbsp;
+<a href="https://dev.to/sailikhithk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Sai Likhith Kanuparthi on DEV.to" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sailikhithk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Likhith Kanuparthi on LinkedIn" height="30" width="40" /></a>
+<a href="https://medium.com/@sailikhith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sai Likhith Kanuparthi on Medium" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sailikhithcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sai Likhith Kanuparthi on HackerRank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sailikhith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sai Likhith Kanuparthi on LeetCode" height="30" width="40" /></a>
 </p>
