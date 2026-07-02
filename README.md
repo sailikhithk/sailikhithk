@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=0e75b6&style=flat" alt="sailikhithk" /> 
 </p>
 
-<img src="welcome-1.gif" width="250" height="150" align="right">
+<p align="center">
+  <img src="welcome-1.gif" width="250" height="150">
+</p>
 
 ## 🧠 About Me
 
