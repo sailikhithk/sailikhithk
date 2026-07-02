@@ -25,6 +25,15 @@
 - 👨‍💻 **Portfolio**: Discover all my work and projects at [sailikhith.me](https://sailikhith.me/) and read my articles at [sailikhithk.com](https://sailikhithk.com/).
 - ⚡ **Fun Fact**: I think of AI not merely as a machine or tool, but as the next generation species on our planet overcoming biological limitations.
 
+## 🏆 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20%E2%80%93%20Professional-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect – Professional" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20%E2%80%93%20Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer – Associate" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20%E2%80%93%20Specialty-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate%20(DP--100)-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Data Scientist Associate (DP-100)" />
+</p>
+
 ## 🧰 Tech Stack & Skills
 
 ### 💻 Languages & Core
