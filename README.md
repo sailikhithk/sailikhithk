@@ -1,6 +1,6 @@
-<img src="welcome-1.gif" width="250" height="150" align="right">
-
 # Hi there, I'm Sai Likhith Kanuparthi! 👋
+
+<img src="welcome-1.gif" width="250" height="150" align="right">
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=600&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems" alt="Typing SVG" /></a>
