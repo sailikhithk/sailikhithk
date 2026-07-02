@@ -1,13 +1,11 @@
 # Sai Likhith Kanuparthi
 [![Linkedin Badge](https://img.shields.io/badge/-sailikhithk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sailikhithk/)](https://www.linkedin.com/in/sailikhithk/) 
-[![Twitter Badge](http://img.shields.io/badge/-@codewithsai?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/codewithsai)](https://twitter.com/codewithsai) 
+[![Twitter Badge](https://img.shields.io/badge/-@codewithsai?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/codewithsai)](https://twitter.com/codewithsai) 
 [![GitHub followers](https://img.shields.io/github/followers/sailikhithk?label=Follow&style=social)](https://github.com/sailikhithk/?tab=follow) 
 [![Gmail Badge](https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red&link=mailto:sailikhithcse@gmail.com)](mailto:sailikhithcse@gmail.com)
-![](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fsailikhithk.github.io)
-![](https://visitor-badge.glitch.me/badge?page_id=sailikhithk.visitor-badge)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=0e75b6&style=flat" alt="sailikhithk" /> </p>
 
-<img src="https://github.com/sailikhithk/sailikhithk/blob/master/welcome-1.gif" width="250" height="150">
+<img src="welcome-1.gif" width="250" height="150">
 
 ## My <a href="https://www.linkedin.com/in/sailikhithk"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="20" ></a> is my detailed Portfolio and My <a href="https://www.github.com/sailikhithk"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" width="30" height="30"></a> is my detailed Resume 
 
@@ -38,12 +36,13 @@
 
 ## 🏆 *Github Status*
 <div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sailikhithk&" alt="sailikhithk" width="48%" height="10%" align="right" /></p>
-  <p><img  src="https://github-readme-stats.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&no-bg=true&margin-h=15&margin-w=15&hide_border=true" width="48%" height="10%" align="right" ></p>
+  <p><img align="center" src="https://streak-stats.demolab.com?user=sailikhithk&theme=transparent" alt="sailikhithk" width="48%" height="10%" align="right" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&margin-h=15&margin-w=15&hide_border=true&theme=transparent" width="48%" height="10%" align="right" ></p>
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailikhithk&layout=compact" width="48%" height="20%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailikhithk&layout=compact&theme=transparent" width="48%" height="20%">
+
   </div>
 <!--
 <a href="https://sailikhithk.com/"><img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&title_color=000FFF&icon_color=79ff67&text_color=9f9f9f"><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailikhithk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
@@ -54,7 +53,7 @@
 
 ### *Don't forget to check out my contributions below*
 <div>
-  <img src="https://github.com/sailikhithk/sailikhithk/blob/master/unnamed2.gif" width="60" height="100">
+  <img src="unnamed2.gif" width="60" height="100">
 </div>
 
 ### Blogs posts
