@@ -28,10 +28,10 @@
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110" height="110" alt="AWS Certified Solutions Architect – Professional" />&nbsp;&nbsp;
-  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" height="110" alt="AWS Certified Developer – Associate" />&nbsp;&nbsp;
-  <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="110" height="110" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
-  <img src="https://images.credly.com/images/d287311c-2236-4d1a-8c54-6e118991206f/image.png" width="110" height="110" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" />
+  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="150" alt="AWS Certified Solutions Architect – Professional" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="150" alt="AWS Certified Developer – Associate" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="150" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/komal-30/komal-30/main/Azure%20Data%20Scientist%20Associate%20Badge.png" height="150" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" />
 </p>
 
 ## 🧰 Tech Stack & Skills
