@@ -36,13 +36,12 @@
 
 ## 🏆 *Github Status*
 <div>
-  <p><img align="center" src="https://streak-stats.demolab.com?user=sailikhithk&theme=transparent" alt="sailikhithk" width="48%" height="10%" align="right" /></p>
-  <p><img src="https://github-stats-extended.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&margin-h=15&margin-w=15&hide_border=true&theme=transparent" width="48%" height="10%" align="right" ></p>
+  <p><img align="center" src="https://streak-stats.demolab.com?user=sailikhithk&background=00000000&border=30363d&stroke=30363d&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="sailikhithk" width="48%" height="10%" align="right" /></p>
+  <p><img src="https://github-stats-extended.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&margin-h=15&margin-w=15&hide_border=true&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" width="48%" height="10%" align="right" ></p>
 </div>
 
 <div>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sailikhithk&layout=compact&theme=transparent" width="48%" height="20%">
-
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sailikhithk&layout=compact&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff" width="48%" height="20%">
   </div>
 <!--
 <a href="https://sailikhithk.com/"><img src="https://github-readme-stats.vercel.app/api?username=sailikhithk&show_icons=true&title_color=000FFF&icon_color=79ff67&text_color=9f9f9f"><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailikhithk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
