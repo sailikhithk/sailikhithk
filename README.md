@@ -98,22 +98,30 @@
 | 2025 | Future Trends in AI for Cyberbullying Preventions | *Harnessing Generative AI to Combat Cyberbullying in Industry: Strategies, Solutions, and Ethics* (p. 200) | Cambridge Scholars Publishing | [Google Books →](https://books.google.com/books?hl=en&lr=&id=Tv-PEQAAQBAJ&oi=fnd&pg=PA200&dq=Sai+Likhith+Kanuparthi) · [ResearchGate →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) |
 | 2025 | Contributing Author | *Harnessing Generative AI to Combat Cyberbullying in Industry: Strategies, Solutions, and Ethics* | Cambridge Scholars Publishing | [Google Books →](https://books.google.com/books?hl=en&lr=&id=Tv-PEQAAQBAJ&oi=fnd&pg=PR5&dq=Sai+Likhith+Kanuparthi) |
 
-### 🔬 IEEE Publications
+### 🔬 Peer-Reviewed Journal Articles
+
+| Year | Title | Journal / Publisher | Links |
+|------|-------|---------------------|-------|
+| 2026 | FT-IR and GC-MS Metabolomic Fingerprinting of Jasmonic Acid and Salicylic Acid Treated Suspension Cultures of Caralluma fimbriata | *Phytomedicine* (Elsevier) · *Under Review* | (Draft manuscript in EB-1 binder) |
+
+### 🔬 Peer-Reviewed Conference Papers (IEEE & SPE)
 
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
-| 2025 | Role of Artificial Intelligence to address Cyberbullying and Future Scope | IEEE Xplore | [IEEE →](https://ieeexplore.ieee.org/abstract/document/11004721) |
-
-### 🎤 Conference Papers
-
-| Year | Title | Venue | Link |
-|------|-------|-------|------|
+| 2025 | Advancing the Metaverse: The Convergence of Digital Twins, AI, and Emerging Technologies | 2025 International Conference on Advanced Computing Technologies (ICoACT) | (Accepted / In Press) |
+| 2023 | Role of Artificial Intelligence to address Cyberbullying and Future Scope | IEEE Xplore (ID: 11004721) | [IEEE Xplore →](https://ieeexplore.ieee.org/abstract/document/11004721) · [ResearchGate →](https://www.researchgate.net/publication/380482590_Role_of_Artificial_Intelligence_to_address_Cyberbullying_and_Future_Scope) |
 | 2022 | Full-Stack Machine Learning Development Framework for Energy Industry Applications | SPE Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC) · Paper: SPE-210986-MS | [OnePetro →](https://doi.org/10.2118/210986-MS) |
 
-### 📝 Research Articles
+### 📜 Patents
 
-| Year | Title | Publisher | Links |
-|------|-------|-----------|-------|
+| Year | Title | Jurisdiction & Application No. | Status |
+|------|-------|--------------------------------|--------|
+| 2025 | Modular Deep Learning Architecture for Cross-Domain Transfer and Incremental Learning | Indian Patent Office (App: 202541010770) | Filed (Feb 8, 2025) |
+
+### 📝 Research Articles & Technical Preprints
+
+| Year | Title | Publisher / Repository | Links |
+|------|-------|------------------------|-------|
 | 2025 | Future Trends in AI for Cyberbullying Preventions | ResearchGate / Stemaway Research | [ResearchGate →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) · [PDF →](https://stemaway-discourse.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b69e629aaf20d516434187dae0aaac429f18f031.pdf) |
 
 ## 🔓 Open Source Contributions
