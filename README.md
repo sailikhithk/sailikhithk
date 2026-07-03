@@ -23,7 +23,7 @@
 ## 🧠 About Me
 
 - 🔭 **Role**: Sr. Software Engineer at **Airbnb**, specializing in **ML Infrastructure** and **AI Data Preparation**.
-- 🤖 **AI Research**: Published across **Cambridge Scholars Publishing** (2 books, 2025) · [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11004721) · [**SPE ATCE**](https://www.onepetro.org/) (2022) · [**ResearchGate**](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) — AI safety, SSMs & ML infrastructure
+- 🤖 **AI Research**: Published across **Cambridge Scholars Publishing** (2 books, 2025) · [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11004721) · [**SPE ADIPEC**](https://doi.org/10.2118/210986-MS) (2022) · [**ResearchGate**](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) — AI safety, SSMs & ML infrastructure
 - 🧠 **Interests**: Passionate about **Generative AI**, Large Language Model Orchestration (LLMs), and Multi-Agent systems.
 - 🛠️ **Current Projects**: 
   - Architecting **LLM-powered analytics tools** (30+ models: GPT-4o, Claude, Gemini, Llama) used daily by 55+ analysts at Airbnb.
@@ -53,7 +53,7 @@
 
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
-| 2022 | Machine Learning for Subsurface Applications | SPE Annual Technical Conference & Exhibition (ATCE), Houston · Paper: 22ATCE-P-663-SPE | [OnePetro →](https://www.onepetro.org/) |
+| 2022 | Full-Stack Machine Learning Development Framework for Energy Industry Applications | SPE Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC) · Paper: SPE-210986-MS | [OnePetro →](https://doi.org/10.2118/210986-MS) |
 
 ### 📝 Research Articles
 
