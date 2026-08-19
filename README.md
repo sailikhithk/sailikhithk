@@ -61,6 +61,23 @@
 |------|-------|-----------|-------|
 | 2025 | Future Trends in AI for Cyberbullying Preventions | ResearchGate / Stemaway Research | [ResearchGate →](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) · [PDF →](https://stemaway-discourse.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b69e629aaf20d516434187dae0aaac429f18f031.pdf) |
 
+## 🔓 Open Source Contributions
+
+Contributing upstream to the LLM tooling I use in production at Airbnb. 8 PRs across 5 repos in August 2026.
+
+| Date | Repo | PR | Title | Status |
+|------|------|-----|-------|--------|
+| 2026-08-17 | `Shubhamsaboo/awesome-llm-apps` | [#1101](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1101) | fix: remove deprecated pathlib backport and migrate PyPDF2 to pypdf | **MERGED** |
+| 2026-08-18 | `explodinggradients/ragas` | [#2959](https://github.com/vibrantlabsai/ragas/pull/2959) | fix(metrics): ContextPrecision returns exactly 1.0 for perfect ranking | Open |
+| 2026-08-15 | `vibrantlabsai/ragas` | [#2954](https://github.com/vibrantlabsai/ragas/pull/2954) | fix: strip deprecated top_p for Anthropic provider in InstructorLLM | Open |
+| 2026-08-08 | `langchain-ai/langchain` | [#39351](https://github.com/langchain-ai/langchain/pull/39351) | fix(perplexity): capture num_search_queries in usage_metadata for cost tracking | Closed, reopening |
+| 2026-08-07 | `livekit/agents` | [#6754](https://github.com/livekit/agents/pull/6754) | feat(evals): add ReliabilityObserver for external reliability scoring | Open |
+| 2026-08 | `BerriAI/litellm` | [#37236](https://github.com/BerriAI/litellm/pull/37236) | fix(batches): bill cancelled/failed batches stamped terminal by a client poll | Open |
+| 2026-08 | `BerriAI/litellm` | [#37238](https://github.com/BerriAI/litellm/pull/37238) | fix(guardrails): merge model-level guardrails into litellm_metadata for /v1/messages | Open |
+| 2026-08 | `BerriAI/litellm` | [#36981](https://github.com/BerriAI/litellm/pull/36981) | fix(vertex_ai): convert messages to contents in gemini count_tokens | Open |
+
+**Focus areas:** LLM cost tracking, eval metrics, provider compatibility, guardrails. Maps directly to my day job building FacadeDriver (30+ LLM orchestration) and eval harnesses (23+ agent versions, 1,690 ground-truth samples) at Airbnb.
+
 ## 🏆 Certifications
 
 <p align="left">
@@ -69,6 +86,8 @@
   <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="150" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/komal-30/komal-30/main/Azure%20Data%20Scientist%20Associate%20Badge.png" height="150" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" />
 </p>
+
+**Also certified in:** AWS Solutions Architect Associate · Google Cloud Professional Data Engineer · Oracle Database 12c Administrator · Oracle Java SE 8 Programmer
 
 ## 🧰 Tech Stack & Skills
 
@@ -123,9 +142,9 @@
       </td>
       <td width="50%" valign="top" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&margin-h=15&margin-w=15&hide_border=true&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&margin-h=15&margin-w=15&hide_border=true&bg_color=00000000&border_color=e5e7eb&title_color=0284c7&text_color=0f172a&icon_color=0284c7">
-          <img src="https://github-stats-extended.vercel.app/api?username=sailikhithk&count_private=true&show_icons=true&margin-h=15&margin-w=15&hide_border=true&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" alt="GitHub Stats" width="95%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sailikhithk&count_private=true&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sailikhithk&count_private=true&theme=github">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sailikhithk&count_private=true&theme=tokyonight" alt="GitHub Stats" width="95%" />
         </picture>
       </td>
     </tr>
