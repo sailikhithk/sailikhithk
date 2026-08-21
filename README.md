@@ -131,18 +131,11 @@ Contributing upstream to the LLM tooling I use in production at Airbnb. 8 PRs ac
 
 ---
 
-## 🏆 GitHub Status
+## GitHub Status
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td width="50%" valign="top" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sailikhithk&background=00000000&border=30363d&stroke=30363d&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b">
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sailikhithk&background=00000000&border=e5e7eb&stroke=e5e7eb&ring=0284c7&fire=f97316&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=0284c7&sideLabels=4b5563&dates=6b7280">
-          <img src="https://streak-stats.demolab.com?user=sailikhithk&background=00000000&border=30363d&stroke=30363d&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak Stats" width="95%" />
-        </picture>
-      </td>
       <td width="50%" valign="top" align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sailikhithk&count_private=true&theme=tokyonight">
@@ -150,14 +143,21 @@ Contributing upstream to the LLM tooling I use in production at Airbnb. 8 PRs ac
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sailikhithk&count_private=true&theme=tokyonight" alt="GitHub Stats" width="95%" />
         </picture>
       </td>
+      <td width="50%" valign="top" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sailikhithk&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sailikhithk&theme=github">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sailikhithk&theme=tokyonight" alt="Top Languages by Repo" width="95%" />
+        </picture>
+      </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
         <br/>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sailikhithk&layout=compact&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sailikhithk&layout=compact&bg_color=00000000&border_color=e5e7eb&title_color=0284c7&text_color=0f172a">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sailikhithk&layout=compact&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff" alt="Top Languages" width="60%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sailikhithk&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sailikhithk&theme=github">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sailikhithk&theme=tokyonight" alt="Top Languages by Commit" width="60%" />
         </picture>
       </td>
     </tr>
