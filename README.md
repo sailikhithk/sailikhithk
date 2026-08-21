@@ -1,15 +1,17 @@
-# Hi there, I'm Sai Likhith Kanuparthi! 👋
+# Sai Likhith Kanuparthi
 
 <p align="left">
   <img src="welcome-1.gif" width="220" height="132" align="right" />
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284c7&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=450&lines=Sr.+Software+Engineer+%40+Airbnb;ML+Infrastructure+%26+AI+Data+Prep;Specialist+in+Python%2C+FastAPI%2C+React;Building+Generative+AI+and+Agentic+systems" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=520&lines=Senior+AI+Infrastructure+%26+Systems+Engineer;LLM+Serving+Runtimes+%7C+Distributed+Observability;Enterprise+Agentic+Platforms+%40+Airbnb;Kafka+4M+req%2Fmin+%7C+OTel+%7C+vLLM+%7C+Bedrock">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284c7&width=520&lines=Senior+AI+Infrastructure+%26+Systems+Engineer;LLM+Serving+Runtimes+%7C+Distributed+Observability;Enterprise+Agentic+Platforms+%40+Airbnb;Kafka+4M+req%2Fmin+%7C+OTel+%7C+vLLM+%7C+Bedrock">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=520&lines=Senior+AI+Infrastructure+%26+Systems+Engineer;LLM+Serving+Runtimes+%7C+Distributed+Observability;Enterprise+Agentic+Platforms+%40+Airbnb;Kafka+4M+req%2Fmin+%7C+OTel+%7C+vLLM+%7C+Bedrock" />
     </picture>
   </a>
 </p>
+
+> Senior AI Infrastructure & Systems Engineer. Building low-latency LLM serving runtimes, distributed observability (OTel/Prometheus), and enterprise agentic platforms.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />&nbsp;&nbsp;
@@ -20,18 +22,24 @@
 </p>
 
 
-## 🧠 About Me
+## Currently Building
 
-- 🔭 **Role**: Sr. Software Engineer at **Airbnb**, specializing in **ML Infrastructure** and **AI Data Preparation**.
-- 🤖 **AI Research**: Published across **Cambridge Scholars Publishing** (2 books, 2025) · [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11004721) · [**SPE ADIPEC**](https://doi.org/10.2118/210986-MS) (2022) · [**ResearchGate**](https://www.researchgate.net/publication/400478774_Future_Trends_in_AI_for_Cyberbullying_Preventions) — AI safety, SSMs & ML infrastructure
-- 🧠 **Interests**: Passionate about **Generative AI**, Large Language Model Orchestration (LLMs), and Multi-Agent systems.
-- 🛠️ **Current Projects**: 
-  - Architecting **LLM-powered analytics tools** (30+ models: GPT-4o, Claude, Gemini, Llama) used daily by 55+ analysts at Airbnb.
-  - Designing agentic automation layers and custom MCP servers.
-  - Contributing to open AI safety research.
-- 👨‍💻 **Portfolio**: [sailikhith.me](https://sailikhith.me/) · Articles: [sailikhithk.com](https://sailikhithk.com/) · AI-readable: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
-- 💼 **Open to**: AI consulting, advisory, and conference speaking.
-- ⚡ **Fun Fact**: I think of AI not merely as a machine or tool, but as the next generation species on our planet overcoming biological limitations.
+**[llm-production-engineering](https://github.com/sailikhithk/llm-production-engineering)** - Field notes from building AI systems in production since 2019. The ops side of LLM serving: cost tracking, eval-driven deployment, capacity planning, observability, incident playbooks, and decision frameworks. Maps directly to my day job at Airbnb.
+
+- Multi-tenant OTel cost tracking for LLM platforms (per-request, per-team, per-product attribution)
+- Prefix-caching telemetry and cache-miss detection across Bedrock, OpenAI, Anthropic, vLLM
+- Redis token bucket budgets for multi-tenant rate limiting
+- Eval-driven deployment: 23+ agent versions, 1,690 versioned ground-truth samples, dual-model A/B testing
+
+
+## About
+
+- **Role:** Senior AI Infrastructure & Systems Engineer at **Airbnb**. I own end-to-end architecture and production rollout of the **BPI Virtual Analyst** platform - a multi-model GenAI orchestration system abstracting **30+ foundation models** (AWS Bedrock, OpenAI, Anthropic Claude, vLLM) behind **FacadeDriver** with routing, retry, fallback, and graceful degradation. Platform processes **10K rows per run and 40MB uploads** with PII-safe inference, serving **55+ analysts** across **4 partner engineering teams**.
+- **Streaming & Batch:** Owned architecture and production operation of **Kafka pipelines sustaining 4M req/min** at Southwest Airlines with idempotent partition-keyed consumers, DLQ, and backpressure handling. Cut on-call **MTTR from 45 to 12 minutes** (73% reduction). Owned batch ETL on **Databricks and Azure Data Factory** at Shell with PySpark, Spark SQL, and Hive/Trino.
+- **Observability:** OpenTelemetry collectors, Loki tracing (prompt, tool call, retrieval quality), Datadog, Grafana, drift detection, post-incident review. The same stack I open-source on in LangChain and LiveKit.
+- **Research:** Published across **Cambridge Scholars Publishing** (2 book chapters, 2025), [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11004721), [SPE ADIPEC 2022](https://doi.org/10.2118/210986-MS) (SPE-210986-MS), and ResearchGate. AI safety, state space models, and ML infrastructure.
+- **Open to:** AI infrastructure consulting, advisory, and conference speaking (NVIDIA GTC, AI Engineer Summit, Ray Summit, Data+AI Summit, QCon, AWS re:Invent customer stage).
+- **Portfolio:** [sailikhith.me](https://sailikhith.me/) | Articles: [sailikhithk.com](https://sailikhithk.com/) | AI-readable: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
 
 ## 📄 Research & Publications
 
@@ -81,48 +89,43 @@ Contributing upstream to the LLM tooling I use in production at Airbnb. 8 PRs ac
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="150" alt="AWS Certified Solutions Architect – Professional" />&nbsp;&nbsp;
-  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="150" alt="AWS Certified Developer – Associate" />&nbsp;&nbsp;
-  <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="150" alt="AWS Certified Machine Learning – Specialty" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="150" alt="AWS Certified Solutions Architect - Professional" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="150" alt="AWS Certified Developer - Associate" />&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="150" alt="AWS Certified Machine Learning - Specialty" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/komal-30/komal-30/main/Azure%20Data%20Scientist%20Associate%20Badge.png" height="150" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" />
 </p>
 
 **Also certified in:** AWS Solutions Architect Associate · Google Cloud Professional Data Engineer · Oracle Database 12c Administrator · Oracle Java SE 8 Programmer
 
-## 🧰 Tech Stack & Skills
+## Tech Stack & Skills
 
-### 💻 Languages & Core
+### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,ts,js,bash,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,bash,cpp" />
   </a>
 </p>
 
-### 🚀 Frameworks & Libraries
+### AI/ML Infrastructure & Serving
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,nextjs,spring,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,azure,gcp,docker,kubernetes" />
   </a>
 </p>
+**LLM Serving:** vLLM, TensorRT-LLM, AWS Bedrock, OpenAI, Anthropic Claude, SageMaker | **Orchestration:** LangChain, LangGraph, MCP, FacadeDriver (custom multi-model router) | **Eval:** LangSmith, Braintrust, custom eval harnesses (1,690 ground-truth samples)
 
-### ☁️ Infrastructure & DevOps
+### Streaming, Data & Observability
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,heroku" />
+    <img src="https://skillicons.dev/icons?i=kafka,redis,elasticsearch,postgres,grafana,prometheus" />
   </a>
 </p>
+**Streaming:** Kafka (4M req/min), RabbitMQ, Airflow | **Observability:** OpenTelemetry, Loki, Datadog, Grafana, Prometheus, drift detection | **Warehouses:** Databricks, Spark SQL, Hive/Trino, PostgreSQL, Elasticsearch
 
-### 🗄️ Databases & Middleware
+### Backend & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,elasticsearch,kafka,rabbitmq" />
-  </a>
-</p>
-
-### 🛠️ Developer Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,nextjs,nginx,jenkins" />
   </a>
 </p>
 
