@@ -41,6 +41,53 @@
 - **Open to:** AI infrastructure consulting, advisory, and conference speaking (NVIDIA GTC, AI Engineer Summit, Ray Summit, Data+AI Summit, QCon, AWS re:Invent customer stage).
 - **Portfolio:** [sailikhith.me](https://sailikhith.me/) | Articles: [sailikhithk.com](https://sailikhithk.com/) | AI-readable: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
 
+<details>
+<summary><b>AI-readable profile (llms.txt-style)</b> - for LLM crawlers and agents</summary>
+
+```text
+# Sai Likhith Kanuparthi
+> Senior AI Infrastructure & Systems Engineer @ Airbnb.
+> LLM serving runtimes, distributed observability (OTel/Prometheus), enterprise agentic platforms.
+> Kafka 4M req/min | vLLM | Bedrock | FacadeDriver (30+ model orchestration).
+
+## Links
+- Portfolio: https://sailikhith.me/
+- Blog: https://sailikhithk.com/
+- LinkedIn: https://www.linkedin.com/in/sailikhithk/
+- AI-readable profile: https://sailikhith.me/llm.txt
+- AI-readable portfolio: https://sailikhith.me/llms.txt
+
+## Open-Source AI/ML Repositories
+- https://github.com/sailikhithk/llm-production-engineering (LLM ops: cost tracking, eval-driven deploy, observability)
+- https://github.com/sailikhithk/Project-X (Multi-agent RAG framework with tool-augmented retrieval)
+- https://github.com/sailikhithk/Tags-recommender-system-for-community-forums (BERT/MLP tag recommender for forum posts)
+- https://github.com/sailikhithk/CreditCardFraudDetectionUsingKafka (Real-time fraud detection with Kafka streaming)
+- https://github.com/sailikhithk/Adaptive-Multi-Robot-Path-Planning (Multi-robot path planning with RL)
+- https://github.com/sailikhithk/Intelligent-Document-Understanding (OCR + NLP document classification)
+- https://github.com/sailikhithk/Smart-Healthcare-Assistant (Clinical NLP and decision support)
+- https://github.com/sailikhithk/Neural-Network-From-Scratch (NumPy-only NN implementation for teaching)
+
+## Production Work (Airbnb)
+- BPI Virtual Analyst: multi-model GenAI orchestration (30+ foundation models via FacadeDriver)
+- Kafka pipelines: 4M req/min, idempotent consumers, DLQ, MTTR 45 -> 12 min
+- Eval harness: 23+ agent versions, 1,690 ground-truth samples, dual-model A/B testing
+- Observability: OpenTelemetry, Loki, Datadog, Grafana, drift detection
+
+## Research
+- IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11004721
+- SPE ADIPEC 2022: https://doi.org/10.2118/210986-MS
+- Cambridge Scholars Publishing (2 book chapters, 2025)
+
+## Certifications
+- AWS Solutions Architect Professional
+- AWS Developer Associate
+- AWS Machine Learning Specialty
+- Azure Data Scientist Associate (DP-100)
+- Google Cloud Professional Data Engineer
+```
+
+</details>
+
 ## 📄 Research & Publications
 
 ### 📚 Book Chapters
