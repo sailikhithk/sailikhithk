@@ -88,6 +88,18 @@
 
 </details>
 
+## 🌱 Open Source Contributions
+
+Active contributor to **[LiteLLM](https://github.com/BerriAI/litellm)** (BerriAI), the unified LLM proxy used in production at Airbnb and across the AI industry.
+
+| PR | Title | Status |
+|----|-------|--------|
+| [#36981](https://github.com/BerriAI/litellm/pull/36981) | fix(vertex_ai): convert messages to contents in gemini count_tokens | **MERGED** (Aug 2026) |
+| [#37236](https://github.com/BerriAI/litellm/pull/37236) | fix(batches): bill cancelled/failed batches stamped terminal by a client poll | OPEN |
+| [#37238](https://github.com/BerriAI/litellm/pull/37238) | fix(guardrails): merge model-level guardrails into litellm_metadata for /v1/messages | OPEN |
+
+Fixes span the Vertex AI provider, batch billing lifecycle, and guardrails metadata handling for the Anthropic-style `/v1/messages` endpoint.
+
 ## 📄 Research & Publications
 
 ### 📚 Book Chapters
