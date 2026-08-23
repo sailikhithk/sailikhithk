@@ -129,7 +129,7 @@ Contributing upstream to the LLM tooling I use in production at Airbnb. 8 PRs ac
 | 2026-08-07 | `livekit/agents` | [#6754](https://github.com/livekit/agents/pull/6754) | feat(evals): add ReliabilityObserver for external reliability scoring | Open |
 | 2026-08 | `BerriAI/litellm` | [#37236](https://github.com/BerriAI/litellm/pull/37236) | fix(batches): bill cancelled/failed batches stamped terminal by a client poll | Open |
 | 2026-08 | `BerriAI/litellm` | [#37238](https://github.com/BerriAI/litellm/pull/37238) | fix(guardrails): merge model-level guardrails into litellm_metadata for /v1/messages | Open |
-| 2026-08 | `BerriAI/litellm` | [#36981](https://github.com/BerriAI/litellm/pull/36981) | fix(vertex_ai): convert messages to contents in gemini count_tokens | Open |
+| 2026-08 | `BerriAI/litellm` | [#36981](https://github.com/BerriAI/litellm/pull/36981) | fix(vertex_ai): convert messages to contents in gemini count_tokens | **MERGED** |
 
 **Focus areas:** LLM cost tracking, eval metrics, provider compatibility, guardrails. Maps directly to my day job building FacadeDriver (30+ LLM orchestration) and eval harnesses (23+ agent versions, 1,690 ground-truth samples) at Airbnb.
 
