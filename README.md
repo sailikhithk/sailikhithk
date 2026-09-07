@@ -24,19 +24,26 @@
 
 ## Currently Building
 
-**[llm-production-engineering](https://github.com/sailikhithk/llm-production-engineering)** - Field notes from building AI systems in production since 2019. The ops side of LLM serving: cost tracking, eval-driven deployment, capacity planning, observability, incident playbooks, and decision frameworks. Maps directly to my day job at Airbnb.
+The reliability stack for production AI. Five open-source repos, each covering a different layer:
 
-- Multi-tenant OTel cost tracking for LLM platforms (per-request, per-team, per-product attribution)
-- Prefix-caching telemetry and cache-miss detection across Bedrock, OpenAI, Anthropic, vLLM
-- Redis token bucket budgets for multi-tenant rate limiting
-- Eval-driven deployment: 23+ agent versions, 1,690 versioned ground-truth samples, dual-model A/B testing
+| Repo | Layer | What it does |
+|------|-------|-------------|
+| [facadedriver](https://github.com/sailikhithk/facadedriver) | Orchestration | 30+ model routing, retry, fallback chains, circuit breakers, per-request telemetry |
+| [eval-infra-for-agents](https://github.com/sailikhithk/eval-infra-for-agents) | Evaluation | Field guide to production agent eval (23+ versions, 1,690 ground-truth samples, LLM-as-Judge gates) |
+| [llm-production-engineering](https://github.com/sailikhithk/llm-production-engineering) | Serving Ops | Cost tracking, eval-driven deployment, capacity planning, observability, incident playbooks |
+| [Synthetic-AI-Image-Detector](https://github.com/sailikhithk/Synthetic-AI-Image-Detector) | Detection | 6-signal AI image detection with calibration, uncertainty quantification, refusal verdicts |
+| [lims-omi](https://github.com/sailikhithk/lims-omi) | Compliance | 21 CFR Part 11 collaboration platform for regulated lab environments |
+
+All five repos have `llms.txt` files for AI crawler discoverability and cross-reference each other.
 
 
 ## About
 
-- **Role:** Senior AI Infrastructure & Systems Engineer at **Airbnb**. I own end-to-end architecture and production rollout of the **BPI Virtual Analyst** platform - a multi-model GenAI orchestration system abstracting **30+ foundation models** (AWS Bedrock, OpenAI, Anthropic Claude, vLLM) behind **FacadeDriver** with routing, retry, fallback, and graceful degradation. Platform processes **10K rows per run and 40MB uploads** with PII-safe inference, serving **128+ users** across **4 partner engineering teams**.
+- **Role:** Senior AI Reliability & Systems Engineer at **Airbnb**. I own end-to-end architecture and production rollout of the **BPI Virtual Analyst** platform - a multi-model GenAI orchestration system abstracting **30+ foundation models** (AWS Bedrock, OpenAI, Anthropic Claude, vLLM) behind **FacadeDriver** with routing, retry, fallback, and graceful degradation. Platform processes **10K rows per run and 40MB uploads** with PII-safe inference, serving **128+ users** across **4 partner engineering teams**.
 - **Streaming & Batch:** Owned architecture and production operation of **Kafka pipelines sustaining 4M req/min** at Southwest Airlines with idempotent partition-keyed consumers, DLQ, and backpressure handling. Cut on-call **MTTR from 45 to 12 minutes** (73% reduction). Owned batch ETL on **Databricks and Azure Data Factory** at Shell with PySpark, Spark SQL, and Hive/Trino.
 - **Observability:** OpenTelemetry collectors, Loki tracing (prompt, tool call, retrieval quality), Datadog, Grafana, drift detection, post-incident review. The same stack I open-source on in LangChain and LiveKit.
+- **Detection & Safety:** Built [SAI](https://github.com/sailikhithk/Synthetic-AI-Image-Detector) (6-signal AI image detector with calibration and uncertainty quantification) and [LIMS-OMI](https://github.com/sailikhithk/lims-omi) (21 CFR Part 11 compliance platform for regulated labs). Detection work spans synthetic media, PII redaction (Presidio), and eval-gated deployment.
+- **Regulated Industries:** Shipped production AI in pharma (Eli Lilly, 21 CFR Part 11 dose management, 99.9% uptime), finance (Southwest Airlines, Kafka 4M req/min fraud detection), and healthcare (Alzheimer's QSAR drug discovery, [published research](https://github.com/sailikhithk/alzheimers-drug-discovery-demo)).
 - **Research:** Published across **Cambridge Scholars Publishing** (2 book chapters, 2025), [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11004721), [SPE ADIPEC 2022](https://doi.org/10.2118/210986-MS) (SPE-210986-MS), and ResearchGate. AI safety, state space models, and ML infrastructure.
 - **Open to:** AI infrastructure consulting, advisory, and conference speaking (NVIDIA GTC, AI Engineer Summit, Ray Summit, Data+AI Summit, QCon, AWS re:Invent customer stage).
 - **Portfolio:** [sailikhith.me](https://sailikhith.me/) | Articles: [sailikhithk.com](https://sailikhithk.com/) | AI-readable: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
@@ -89,18 +96,6 @@
 
 </details>
 
-## 🌱 Open Source Contributions
-
-Active contributor to **[LiteLLM](https://github.com/BerriAI/litellm)** (BerriAI), the unified LLM proxy used in production at Airbnb and across the AI industry.
-
-| PR | Title | Status |
-|----|-------|--------|
-| [#36981](https://github.com/BerriAI/litellm/pull/36981) | fix(vertex_ai): convert messages to contents in gemini count_tokens | **MERGED** (Aug 2026) |
-| [#37236](https://github.com/BerriAI/litellm/pull/37236) | fix(batches): bill cancelled/failed batches stamped terminal by a client poll | OPEN |
-| [#37238](https://github.com/BerriAI/litellm/pull/37238) | fix(guardrails): merge model-level guardrails into litellm_metadata for /v1/messages | OPEN |
-
-Fixes span the Vertex AI provider, batch billing lifecycle, and guardrails metadata handling for the Anthropic-style `/v1/messages` endpoint.
-
 ## 📄 Research & Publications
 
 ### 📚 Book Chapters
@@ -129,7 +124,7 @@ Fixes span the Vertex AI provider, batch billing lifecycle, and guardrails metad
 
 | Year | Title | Jurisdiction & Application No. | Status |
 |------|-------|--------------------------------|--------|
-| 2025 | Modular Deep Learning Architecture for Cross-Domain Transfer and Incremental Learning | Indian Patent Office (App: 202541010770) | Filed (Feb 8, 2025) |
+| 2025 | Modular Deep Learning Architecture for Cross-Domain Transfer and Incremental Learning | Indian Patent Office (App: 202541026299) | Published (Mar 2025) |
 
 ### 📝 Research Articles & Technical Preprints
 
