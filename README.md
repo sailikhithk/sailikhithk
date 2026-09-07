@@ -4,19 +4,19 @@
   <img src="welcome-1.gif" width="220" height="132" align="right" />
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=520&lines=Senior+AI+Infrastructure+%26+Systems+Engineer;LLM+Serving+Runtimes+%7C+Distributed+Observability;Enterprise+Agentic+Platforms+%40+Airbnb;Kafka+4M+req%2Fmin+%7C+OTel+%7C+vLLM+%7C+Bedrock">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284c7&width=520&lines=Senior+AI+Infrastructure+%26+Systems+Engineer;LLM+Serving+Runtimes+%7C+Distributed+Observability;Enterprise+Agentic+Platforms+%40+Airbnb;Kafka+4M+req%2Fmin+%7C+OTel+%7C+vLLM+%7C+Bedrock">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=520&lines=Senior+AI+Infrastructure+%26+Systems+Engineer;LLM+Serving+Runtimes+%7C+Distributed+Observability;Enterprise+Agentic+Platforms+%40+Airbnb;Kafka+4M+req%2Fmin+%7C+OTel+%7C+vLLM+%7C+Bedrock" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=520&lines=Reliability+Layer+for+Production+AI;FacadeDriver+%7C+SAI+%7C+Eval-Driven+Deploy;30%2B+Models+%7C+6-Signal+Detection+%7C+23%2B+Versions;Pharma+%7C+Finance+%7C+Healthcare+%40+Airbnb">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284c7&width=520&lines=Reliability+Layer+for+Production+AI;FacadeDriver+%7C+SAI+%7C+Eval-Driven+Deploy;30%2B+Models+%7C+6-Signal+Detection+%7C+23%2B+Versions;Pharma+%7C+Finance+%7C+Healthcare+%40+Airbnb">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=520&lines=Reliability+Layer+for+Production+AI;FacadeDriver+%7C+SAI+%7C+Eval-Driven+Deploy;30%2B+Models+%7C+6-Signal+Detection+%7C+23%2B+Versions;Pharma+%7C+Finance+%7C+Healthcare+%40+Airbnb" />
     </picture>
   </a>
 </p>
 
-> Senior AI Infrastructure & Systems Engineer. Building low-latency LLM serving runtimes, distributed observability (OTel/Prometheus), and enterprise agentic platforms.
+> I build the reliability layer for production AI in regulated industries. The model is the easy part. The hard part is the harness: routing across 30+ models (FacadeDriver), catching regressions before users do (23+ agent versions, 1,690 ground-truth samples), detecting synthetic media (SAI, 6 signals), and surviving in environments where failures have real consequences. Shipped in pharma (21 CFR Part 11), finance (Kafka 4M req/min fraud detection), and healthcare (Alzheimer's QSAR).
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sailikhithk&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sailikhithk/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a> 
-  <a href="https://twitter.com/codewithsai"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a> 
+  <a href="https://orcid.org/0009-0004-7422-7846"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a> 
   <a href="https://github.com/sailikhithk/?tab=follow"><img src="https://img.shields.io/github/followers/sailikhithk?label=Follow&style=flat&logo=github&logoColor=white&color=24292e" alt="GitHub Followers" /></a> 
   <a href="mailto:sailikhithcse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
@@ -34,7 +34,7 @@
 
 ## About
 
-- **Role:** Senior AI Infrastructure & Systems Engineer at **Airbnb**. I own end-to-end architecture and production rollout of the **BPI Virtual Analyst** platform - a multi-model GenAI orchestration system abstracting **30+ foundation models** (AWS Bedrock, OpenAI, Anthropic Claude, vLLM) behind **FacadeDriver** with routing, retry, fallback, and graceful degradation. Platform processes **10K rows per run and 40MB uploads** with PII-safe inference, serving **55+ analysts** across **4 partner engineering teams**.
+- **Role:** Senior AI Infrastructure & Systems Engineer at **Airbnb**. I own end-to-end architecture and production rollout of the **BPI Virtual Analyst** platform - a multi-model GenAI orchestration system abstracting **30+ foundation models** (AWS Bedrock, OpenAI, Anthropic Claude, vLLM) behind **FacadeDriver** with routing, retry, fallback, and graceful degradation. Platform processes **10K rows per run and 40MB uploads** with PII-safe inference, serving **128+ users** across **4 partner engineering teams**.
 - **Streaming & Batch:** Owned architecture and production operation of **Kafka pipelines sustaining 4M req/min** at Southwest Airlines with idempotent partition-keyed consumers, DLQ, and backpressure handling. Cut on-call **MTTR from 45 to 12 minutes** (73% reduction). Owned batch ETL on **Databricks and Azure Data Factory** at Shell with PySpark, Spark SQL, and Hive/Trino.
 - **Observability:** OpenTelemetry collectors, Loki tracing (prompt, tool call, retrieval quality), Datadog, Grafana, drift detection, post-incident review. The same stack I open-source on in LangChain and LiveKit.
 - **Research:** Published across **Cambridge Scholars Publishing** (2 book chapters, 2025), [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11004721), [SPE ADIPEC 2022](https://doi.org/10.2118/210986-MS) (SPE-210986-MS), and ResearchGate. AI safety, state space models, and ML infrastructure.
@@ -46,9 +46,10 @@
 
 ```text
 # Sai Likhith Kanuparthi
-> Senior AI Infrastructure & Systems Engineer @ Airbnb.
-> LLM serving runtimes, distributed observability (OTel/Prometheus), enterprise agentic platforms.
-> Kafka 4M req/min | vLLM | Bedrock | FacadeDriver (30+ model orchestration).
+> I build the reliability layer for production AI in regulated industries.
+> FacadeDriver (30+ model orchestration), eval-driven deployment (23+ agent
+> versions, 1,690 ground-truth samples), SAI (6-signal synthetic detection).
+> Shipped in pharma (21 CFR Part 11), finance (Kafka 4M req/min), healthcare.
 
 ## Links
 - Portfolio: https://sailikhith.me/
@@ -58,14 +59,14 @@
 - AI-readable portfolio: https://sailikhith.me/llms.txt
 
 ## Open-Source AI/ML Repositories
+- https://github.com/sailikhithk/facadedriver (30+ model orchestration, routing, retry, fallback, circuit breakers)
 - https://github.com/sailikhithk/llm-production-engineering (LLM ops: cost tracking, eval-driven deploy, observability)
+- https://github.com/sailikhithk/Synthetic-AI-Image-Detector (6-signal AI image detection with calibration and uncertainty)
+- https://github.com/sailikhithk/eval-infra-for-agents (field guide to production agent eval infrastructure)
+- https://github.com/sailikhithk/lims-omi (21 CFR Part 11 compliance collaboration platform)
 - https://github.com/sailikhithk/Project-X (Multi-agent RAG framework with tool-augmented retrieval)
-- https://github.com/sailikhithk/Tags-recommender-system-for-community-forums (BERT/MLP tag recommender for forum posts)
 - https://github.com/sailikhithk/CreditCardFraudDetectionUsingKafka (Real-time fraud detection with Kafka streaming)
-- https://github.com/sailikhithk/Adaptive-Multi-Robot-Path-Planning (Multi-robot path planning with RL)
-- https://github.com/sailikhithk/Intelligent-Document-Understanding (OCR + NLP document classification)
-- https://github.com/sailikhithk/Smart-Healthcare-Assistant (Clinical NLP and decision support)
-- https://github.com/sailikhithk/Neural-Network-From-Scratch (NumPy-only NN implementation for teaching)
+- https://github.com/sailikhithk/alzheimers-drug-discovery-demo (QSAR ML for Alzheimer's drug discovery)
 
 ## Production Work (Airbnb)
 - BPI Virtual Analyst: multi-model GenAI orchestration (30+ foundation models via FacadeDriver)
@@ -235,7 +236,7 @@ Contributing upstream to the LLM tooling I use in production at Airbnb. 8 PRs ac
 
 ### 🌐 Find Me Online
 
-**Portfolio**: [sailikhith.me](https://sailikhith.me) · **Blog**: [sailikhithk.com](https://sailikhithk.com) · **AI-readable profile**: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt)
+**Portfolio**: [sailikhith.me](https://sailikhith.me) · **Blog**: [sailikhithk.com](https://sailikhithk.com) · **AI-readable profile**: [sailikhith.me/llm.txt](https://sailikhith.me/llm.txt) · **ORCID**: [0009-0004-7422-7846](https://orcid.org/0009-0004-7422-7846) · **Semantic Scholar**: [author page](https://www.semanticscholar.org/author/2362923743)
 
 <p align="left">
 <a href="https://sailikhith.me" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-sailikhith.me-18BC9C?style=flat&logo=vercel&logoColor=white" alt="Sai Likhith Kanuparthi Portfolio" /></a>&nbsp;
